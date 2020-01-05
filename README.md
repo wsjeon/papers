@@ -1,3 +1,3 @@
-# Papers
+# Title
 
-$ax+b$
+$$ ax + b $$
