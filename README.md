@@ -1,2 +1,3 @@
 # Papers
-$$ax+b$$
+
+$ax+b$
